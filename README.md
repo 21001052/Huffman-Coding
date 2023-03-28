@@ -24,8 +24,6 @@ Calculate frequency of occurrence.
 
 ### Step5:
 Print the characters and its huffmancode.
-
-<br/><br/><br/><br/><br/><br/><br/>
 ###
 NAME: THAMARAI SELVAN 
 REGISTER NUMBER:212221230115
