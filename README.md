@@ -26,7 +26,9 @@ Calculate frequency of occurrence.
 Print the characters and its huffmancode.
 
 <br/><br/><br/><br/><br/><br/><br/>
-
+###
+NAME: THAMARAI SELVAN 
+REGISTER NUMBER:212221230115
 ## Program:
 ``` Python
 # Get the input String
