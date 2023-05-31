@@ -31,7 +31,7 @@ REGISTER NUMBER:212221230115
 ## Program:
 ``` Python
 # Get the input String
-string = 'from robomaster import robot'
+string = 'THAMARAISELVAN V 21001052'
 class NodeTree(object):
     def __init__(self, left=None, right=None): 
         self.left = left
