@@ -25,8 +25,10 @@ Calculate frequency of occurrence.
 ### Step5:
 Print the characters and its huffmancode.
 ###
+```
 NAME: THAMARAI SELVAN 
 REGISTER NUMBER:212221230115
+```
 ## Program:
 ``` Python
 # Get the input String
